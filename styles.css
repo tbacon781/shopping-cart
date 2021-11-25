@@ -1,0 +1,68 @@
+header {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 6rem;
+  margin-bottom: 9rem;
+}
+
+body {
+  background-color: rgb(248, 244, 238);
+}
+
+h1 {
+  padding-bottom: 10rem;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font: normal;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+}
+
+p {
+  display: block;
+  margin-top: -8rem;
+  margin-bottom: 5rem;
+  font-size: large;
+}
+
+.wrap {
+  padding-left: 20rem;
+  width: 55%;
+  position: absolute;
+}
+
+.cart-image {
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  height: 30rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-top: -8rem;
+  margin-bottom: 1rem;
+  opacity: 80%;
+  background-image: url(/images/ecommerce-vs-online-marketplace1603983748724190.jpg);
+}
+
+footer {
+  display: block;
+  font-size: 0.85em;
+  font-style: italic;
+  text-align: center;
+  padding-top: 5em;
+  margin-bottom: 2rem;
+}
