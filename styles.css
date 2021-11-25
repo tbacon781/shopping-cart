@@ -47,15 +47,15 @@ p {
 }
 
 .cart-image {
-  background-attachment: scroll;
   background-repeat: no-repeat;
   height: 30rem;
+  width: 100%;
   margin-left: 20rem;
   margin-right: 20rem;
   margin-top: -8rem;
   margin-bottom: 1rem;
   opacity: 80%;
-  background-image: url(/images/ecommerce-vs-online-marketplace1603983748724190.jpg);
+  background-image: url(/images/istockphoto-1133980246-612x612.jpg);
 }
 
 footer {
